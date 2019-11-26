@@ -150,9 +150,9 @@ prohibited from finding their own funding to assist potential speakers.
 ## Some Alternative Models
 
 * Around KubeCon NA 2019
-** [Cloud Native Rejekts](https://cloud-native.rejekts.io/) offers attendees a weekend of ‘unaccepted’ talks leading into KubeCon. It provides a stage for some of the 85% of talks rejected by KubeCon. Runs on Sat 16th & Sun 17th. Seperate Registration, Website and Organisers
-** [Day Zero co-locationed events](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-events/) at Kubecon. Around 30 co-located conferences running on Monday 18. Main conf on Tues 20th - Thurs 21st. Registered as part of Main Conf, Additional Cost.
-*** [Companies hosting co-located events must be a sponsor](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-best-practices/)
+ * [Cloud Native Rejekts](https://cloud-native.rejekts.io/) offers attendees a weekend of ‘unaccepted’ talks leading into KubeCon. It provides a stage for some of the 85% of talks rejected by KubeCon. Runs on Sat 16th & Sun 17th. Seperate Registration, Website and Organisers
+ * [Day Zero co-locationed events](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-events/) at Kubecon. Around 30 co-located conferences running on Monday 18. Main conf on Tues 20th - Thurs 21st. Registered as part of Main Conf, Additional Cost.
+  * [Companies hosting co-located events must be a sponsor](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-best-practices/)
 
 ## Options  
 
