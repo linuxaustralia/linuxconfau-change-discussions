@@ -1,5 +1,9 @@
 # Tickets
 
+There are several types of tickets for Linux.conf.au 
+
+The relative pricing of tickets is aiming at [Price discrimination](https://en.wikipedia.org/wiki/Price_discrimination) to ensure people who can afford it part more but the conference is still accessable for those with less ability to pay.
+
 ## What are the tickets
 
 * Contributor - The Contributor ticket is designed for those who wish to attend linux.conf.au as a Professional delegate, as well as supporting the conference by contributing financially. In recognition of this support, Contributors have the option to get their logo and a link to their organisation published on the Contributors page.
