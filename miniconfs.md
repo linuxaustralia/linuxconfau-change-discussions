@@ -44,7 +44,10 @@ now.)
 Originally the Miniconfs were *seperately organised* small
 one-day conferences that happened to run the day before Linux.Conf.Au
 (or later, the two days before Linux.Conf.Au) at the same/nearby venue,
-and aimed at "people who were in town to attend Linux.Conf.Au).
+and aimed at "people who were in town to attend Linux.Conf.Au).  There
+was no integration with the main Linux.Conf.Au site, other than a link to
+the Miniconf website, and Miniconfs did their own CFPs, published their
+own schedules, etc.
 
 Originally Linux.Conf.Au provided nothing to the Miniconfs other than
 "here's a room at the conference University you can use", and Miniconfs
@@ -55,10 +58,82 @@ By about LCA2007 Miniconf programmes were integrated into the [Main
 Linux.Conf.Au 2007
 programme](https://web.archive.org/web/20070202235931/http://lca2007.linux.org.au/Programme#head-7c55d4e2eb375b362533e06eeb559d2c68271869),
 and the Miniconfs were recognised as "part of" Linux.Conf.Au, not
-something "before" Linux.Conf.Au.  This is also when the main
-Linux.Conf.Au team started scheduling main Linux.Conf.Au events
-on "the Miniconf Days" (Monday/Tuesday), such as the conference opening
-and main conference keynotes.
+something "before" Linux.Conf.Au.
+
+LCA2007 is also when the main Linux.Conf.Au team started scheduling
+main Linux.Conf.Au events on "the Miniconf Days" (Monday/Tuesday),
+such as the conference opening and main conference keynotes.  This
+did not happen on LCA2008 (Melbourne) or LCA2009 (Hobart), but did
+start happening regularly fromL LCA2010 (Wellington).  So from LCA2010
+(about a decade ago), the Miniconf Monday/Tuesday were firmly *part of*
+Linux.Conf.Au rather than *before* Linux.Conf.Au.
+
+
+### Miniconf funding
+
+Miniconfs have never received any regular funding from the main
+Linux.Conf.Au conference budget, although it has usually been
+implicitly or explicitly required that Miniconf attendees had a
+Linux.Conf.Au conference ticket (with the Miniconfs "included in
+the ticket").
+
+For about the last 10-15 years, the *primary* organiser of a
+Linux.Conf.Au Miniconf has received the equivalent of a "Linux.Conf.Au
+main conference Speaker" ticket, as an acknowledgement of the effort
+that goes into organising the Miniconf.  Other Miniconf co-organisers
+have been required to buy a regular Linux.Conf.Au ticket (although
+in the last couple of years Miniconf co-organisers have received
+the equivalent of an "extended early bird" ticket -- ie they can buy
+an early bird priced ticket up to much closer to the conference than
+other attendees).
+
+In the LCA2004 to LCA2009 sort of time frame, some Miniconfs located
+their own sponsors, sometimes fairly significant amounts of sponsorship.
+Since about LCA2010 Miniconfs have been explicitly prohibited from
+finding/having their own sponsorship / funding, due to concerns about
+Miniconf sponsors prominence competing with the prominence of the
+main Linux.Conf.Au sponsors.
+
+Some years special "Miniconf Day Only" tickets have been available,
+either to the general public (for a notional amount, approx $100)
+or just to Miniconf Speakers (typically "by request" at no cost).  Some
+early years these were available directly, but since about LCA2010 when
+available these have only been available as a special Linux.Conf.Au
+ticket type.
+
+Since about LCA2010 Miniconfs have operated with effectively zero budget.
+
+Other than a few speakers on some years with Miniconf Day Only
+tickets, speakers at Miniconfs have been expected to buy their own
+ticket to Linux.Conf.Au, at their own or their employers cost, in
+order to be permitted to speak at the Miniconf.
+
+
+### Increased Miniconf Integration
+
+Up to about LCA2016 (Geelong) Miniconf CFPs were always run separately,
+either from the Miniconf website or via email.
+
+Around the switch to the new Linux.Conf.Au registration/conference
+system for LCA2017 (Hobart), Miniconfs were requested to run their
+Call for Presentations through the Linux.Conf.Au site, effectively
+as a "second speaker CFP" round.  This happened for LCA2018 (Sydney),
+LCA2019 (Christchurch) and LCA2020 (Gold Coast).
+
+This change to integrated CFP, integrated program, etc, made the Miniconfs
+seem even more "part of the Linux.Conf.Au conference" to external users
+such as potential speakers.  At least in LCA2019 and LCA2020 the Miniconf
+CFP forms -- on the Linux.Conf.Au provided site -- explicitly asked
+potential Miniconf speakers if they needed financial assistance to
+attend / speak, just as was asked in the main Linux.Conf.Au CFP.
+
+Unfortunately this increased apparent integration has not been reflected
+in actual increased integration of Miniconfs into the Linux.Conf.Au budget.
+So other than years that have had a general diversity fund available
+(eg, LCA2015 in Auckland, LCA2017 in Hobart) that any attendee could
+apply to, there has been no funding available to Miniconf Speakers from
+Linux.Conf.Au's budget, and Miniconf Organisers have been explicitly
+prohibited from finding their own funding to assist potential speakers.
 
 
 ## Key issues 
