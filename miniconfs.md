@@ -182,8 +182,11 @@ Impossible to say for sure, based on some discussions on the miniconf mailing li
   * [Cloud Native Rejekts](https://cloud-native.rejekts.io/) offers attendees a weekend of ‘unaccepted’ talks leading into KubeCon. It provides a stage for some of the 85% of talks rejected by KubeCon. Runs on Sat 16th & Sun 17th. Seperate Registration, Website and Organisers
   * [Day Zero co-locationed events](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-events/) at Kubecon. Around 30 co-located conferences running on Monday 18. Main conf on Tues 20th - Thurs 21st. Registered as part of Main Conf, Additional Cost.
     * [Companies hosting co-located events must be a sponsor](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-best-practices/)
+* Alt-conferences (smaller in scope conferences that run alongside and nearby a larger conference). Most started in protest of ticket prices around large commercial conferences but have become a recognised part of the conference culture.
+	* [Lost Levels](https://lostlevels.net) - A lightning-talk style conference running alongside the Game Developers Conference.
+	* [AltConf](http://altconf.com) - a more traditional conference format, running alongside Apple's WWDC.
 
-## Options  
+## Options
 
 ### Blergh blergh option 1 
 
@@ -193,7 +196,7 @@ Impossible to say for sure, based on some discussions on the miniconf mailing li
 
 #### Interdependencies of $OPTION
 
-#### Consequences of adopting $OPTION 
+#### Consequences of adopting $OPTION
 
 ## Recommendations 
 
