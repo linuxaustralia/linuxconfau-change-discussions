@@ -104,7 +104,7 @@ Miniconf sponsors prominence competing with the prominence of the
 main Linux.Conf.Au sponsors.
 
 Some years special "Miniconf Day Only" tickets have been available,
-either to the general public (for a notional amount, approx $100)
+either to the general public (for a notional amount, approx `$100`)
 or just to Miniconf Speakers (typically "by request" at no cost).  Some
 early years these were available directly, but since about LCA2010 when
 available these have only been available as a special Linux.Conf.Au
