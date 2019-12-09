@@ -162,6 +162,8 @@ Those who are impacted in a way that results in them not being able to participa
 
 In the past miniconf organisers have bought tickets for their speakers who couldn't otherwise attend.
 
+Main conference organisers in the past have also waived tickets for miniconf speakers or created extremely discounted miniconf-only tickets creating more work for main conference.
+
 ### Missing Deadlines
 
 LCA has a large number of support features to enable better attendance, these all have deadlines to make use of them.
