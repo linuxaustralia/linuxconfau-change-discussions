@@ -145,7 +145,34 @@ Linux.Conf.Au's budget, and Miniconf Organisers have been explicitly
 prohibited from finding their own funding to assist potential speakers.
 
 
-## Key issues 
+## Key issues
+
+### Unsupported Labour
+
+No one should be made to work for free, presenting a talk is work.
+Paying speakers is the ideal means of compensating them, realistically this is impossible for a community conference, as such to compensate the speakers for their time and work they are supported (amongst other ways) with free conference attendance.
+Main conference speakers are given a speaker tier ticket, which is essentially a slightly better Professional ticket, around `$1000` value.
+
+Miniconf speakers are required to pay to present, making them work without any compensation.
+
+#### Scope of Impact
+
+In theory this impacts every miniconf speaker past and present for as long as miniconfs have existed.
+Those who are impacted in a way that results in them not being able to participate the scope of this impact is impossible to determine in any accurate way.
+
+In the past miniconf organisers have bought tickets for their speakers who couldn't otherwise attend.
+
+### Missing Deadlines
+
+LCA has a large number of support features to enable better attendance, these all have deadlines to make use of them.
+Miniconfs are organised after many of the support deadlines for the main conference have passed.
+
+The early bird tickets long expire before miniconf speakers are informed of their acceptance.
+Likewise for the travel support.
+
+#### Scope of Impact
+
+Impossible to say for sure, based on some discussions on the miniconf mailing list the travel funding has impacted miniconf speakers from submitting talks in the past.
 
 ## Some Alternative Models
 
