@@ -201,6 +201,46 @@ Venue is impacted, if miniconfs are allowed to organise or modify venue requirem
 
 ## Options
 
+### Cancel miniconfs
+
+The easiest solution is to stop the miniconfs and run LCA as a three day conference.
+
+#### Pros
+
+- Venue savings
+- Catering savings
+- Simplify workload on organising team
+- Eradicate those loud miniconf organisers
+
+#### Drawbacks
+
+- No miniconfs
+
+#### Interdependencies
+
+- Conference ticket perceived value
+- Conference sponsorship perceived value
+- Venue requirements
+
+#### Examples
+
+[OSCON](https://conferences.oreilly.com/oscon/oscon-or) in 2015 dropped their fifth day which was normally the community focussed day.
+Unsure as to the exact impact on the event as we don't have access to the data, anecdotal reports has the community angry with it, but the conference still runs.
+
+#### Consequences of adopting
+
+- The pereceived value of the conference for both tickets and sponsorship drops
+- Venue requirements most likely simplified
+- Costs for those two days eliminated
+- Probably extremely angry community
+
+This is both the easiest and most extreme option all at once and amounts to essentially a complete overhaul to how LCA is run.
+
+It simplifies the workload on the organisers, reduces venue and catering costs and would likely simplify hiring a venue as three days is easier than five.
+This does change the conference from five to three days and will likely also result in the ticket and sponsorship being seen as less valuable than they currently are.
+
+The repurcussions of this option are impossible to predict without attempting them.
+
 ### Blergh blergh option 1 
 
 #### Pros of $OPTION
