@@ -241,6 +241,54 @@ This does change the conference from five to three days and will likely also res
 
 The repurcussions of this option are impossible to predict without attempting them.
 
+### Split off miniconfs
+
+A less extreme version of the above, essentially encourage miniconfs to run before the main conference but with zero official integration with LCA main.
+Main difference between this and the above is that miniconfs would be mentioned and encouraged by LCA but with the caveat of "we are not running them".
+This would very likely happen anyway even if the above option was taken.
+
+#### Pros
+
+- Reduced venue costs
+- Reduced catering costs
+- Reduced main organiser workload
+- Simplify LCA conference backend and website (can drop elements relevant to miniconfs)
+
+#### Drawbacks
+
+- Increased miniconf organiser workload
+- The pereceived value of the conference for both tickets and sponsorship drops
+- Miniconfs need to find venue space
+- Reduced integration between miniconf communities and main conference communities
+- Reduced "foot traffic" of potential miniconf speakers through main LCA
+
+#### Interdependencies
+
+- Conference ticket perceived value drops
+- Conference sponsorship perceived value drops
+- Venue requirements
+- LCA backend and website
+
+#### Examples
+
+[Freeplay Parallels](https://freeplay.net.au): an event that runs during [Melbourne International Games Week](http://gamesweek.melbourne) during the pause in-between when the larger main events of Games Week (GCAP and PAX) run.
+
+[Copyleft Conf](https://2019.copyleftconf.org/about/): ran after FOSDEM 2019.
+Date and location was chosen to specifically be convenient for those attending FOSDEM.
+
+[Papers We Love](https://pwlconf.org): overlaps with [Strange Loop](https://www.thestrangeloop.com)'s first day but is technically its own conference that shares space and costs and support each other.
+
+Most large conferences have a variety of unofficial events pop up around them that are supported by the main conference by listing them as unofficial events on their website or social media channels. 
+
+#### Consequences of adopting
+
+- The pereceived value of the conference for both tickets and sponsorship drops
+- Venue requirements most likely simplified
+- Costs for those two days eliminated
+
+These consequences are very similar to the above but with a likely reduced community upset.
+As with the above option the full repurcussions of this are impossible to gauge without actually doing it and seeing.
+
 ### Blergh blergh option 1 
 
 #### Pros of $OPTION
