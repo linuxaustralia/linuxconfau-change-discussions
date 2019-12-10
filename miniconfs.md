@@ -176,6 +176,19 @@ Likewise for the travel support.
 
 Impossible to say for sure, based on some discussions on the miniconf mailing list the travel funding has impacted miniconf speakers from submitting talks in the past.
 
+### Organiser Capacity
+
+Miniconfs are separately organised but the organisers have no capability to issue tickets, connect with sponsors, or modify venue based on requirements.
+All of this needs to be done through the main conference organisers.
+
+The inverse of this is also true, there is a workload put on the main conference organisers to solve the issues of tickets, handle venue requirements, close off sponsorship deals, or any other needs of the miniconf.
+
+#### Scope of Impact
+
+All miniconfs are impacted by this, as are all main conference organisers.
+Sponsors are also impacted, either by having more sponsor competition or by not being able to sponsor the element of LCA they care about.
+Venue is impacted, if miniconfs are allowed to organise or modify venue requirements this needs to be handled.
+
 ## Some Alternative Models
 
 * Around KubeCon NA 2019
