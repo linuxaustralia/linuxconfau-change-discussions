@@ -104,7 +104,7 @@ Miniconf sponsors prominence competing with the prominence of the
 main Linux.Conf.Au sponsors.
 
 Some years special "Miniconf Day Only" tickets have been available,
-either to the general public (for a notional amount, approx $100)
+either to the general public (for a notional amount, approx `$100`)
 or just to Miniconf Speakers (typically "by request" at no cost).  Some
 early years these were available directly, but since about LCA2010 when
 available these have only been available as a special Linux.Conf.Au
@@ -145,7 +145,49 @@ Linux.Conf.Au's budget, and Miniconf Organisers have been explicitly
 prohibited from finding their own funding to assist potential speakers.
 
 
-## Key issues 
+## Key issues
+
+### Unsupported Labour
+
+No one should be made to work for free, presenting a talk is work.
+Paying speakers is the ideal means of compensating them, realistically this is impossible for a community conference, as such to compensate the speakers for their time and work they are supported (amongst other ways) with free conference attendance.
+Main conference speakers are given a speaker tier ticket, which is essentially a slightly better Professional ticket, around `$1000` value.
+
+Miniconf speakers are required to pay to present, making them work without any compensation.
+
+#### Scope of Impact
+
+In theory this impacts every miniconf speaker past and present for as long as miniconfs have existed.
+Those who are impacted in a way that results in them not being able to participate the scope of this impact is impossible to determine in any accurate way.
+
+In the past miniconf organisers have bought tickets for their speakers who couldn't otherwise attend.
+
+Main conference organisers in the past have also waived tickets for miniconf speakers or created extremely discounted miniconf-only tickets creating more work for main conference.
+
+### Missing Deadlines
+
+LCA has a large number of support features to enable better attendance, these all have deadlines to make use of them.
+Miniconfs are organised after many of the support deadlines for the main conference have passed.
+
+The early bird tickets long expire before miniconf speakers are informed of their acceptance.
+Likewise for the travel support.
+
+#### Scope of Impact
+
+Impossible to say for sure, based on some discussions on the miniconf mailing list the travel funding has impacted miniconf speakers from submitting talks in the past.
+
+### Organiser Capacity
+
+Miniconfs are separately organised but the organisers have no capability to issue tickets, connect with sponsors, or modify venue based on requirements.
+All of this needs to be done through the main conference organisers.
+
+The inverse of this is also true, there is a workload put on the main conference organisers to solve the issues of tickets, handle venue requirements, close off sponsorship deals, or any other needs of the miniconf.
+
+#### Scope of Impact
+
+All miniconfs are impacted by this, as are all main conference organisers.
+Sponsors are also impacted, either by having more sponsor competition or by not being able to sponsor the element of LCA they care about.
+Venue is impacted, if miniconfs are allowed to organise or modify venue requirements this needs to be handled.
 
 ## Some Alternative Models
 
@@ -153,8 +195,99 @@ prohibited from finding their own funding to assist potential speakers.
   * [Cloud Native Rejekts](https://cloud-native.rejekts.io/) offers attendees a weekend of ‘unaccepted’ talks leading into KubeCon. It provides a stage for some of the 85% of talks rejected by KubeCon. Runs on Sat 16th & Sun 17th. Seperate Registration, Website and Organisers
   * [Day Zero co-locationed events](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-events/) at Kubecon. Around 30 co-located conferences running on Monday 18. Main conf on Tues 20th - Thurs 21st. Registered as part of Main Conf, Additional Cost.
     * [Companies hosting co-located events must be a sponsor](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-best-practices/)
+* Alt-conferences (smaller in scope conferences that run alongside and nearby a larger conference). Most started in protest of ticket prices around large commercial conferences but have become a recognised part of the conference culture.
+	* [Lost Levels](https://lostlevels.net) - A lightning-talk style conference running alongside the Game Developers Conference.
+	* [AltConf](http://altconf.com) - a more traditional conference format, running alongside Apple's WWDC.
 
-## Options  
+## Options
+
+### Cancel miniconfs
+
+The easiest solution is to stop the miniconfs and run LCA as a three day conference.
+
+#### Pros
+
+- Venue savings
+- Catering savings
+- Simplify workload on organising team
+- Eradicate those loud miniconf organisers
+
+#### Drawbacks
+
+- No miniconfs
+
+#### Interdependencies
+
+- Conference ticket perceived value
+- Conference sponsorship perceived value
+- Venue requirements
+
+#### Examples
+
+[OSCON](https://conferences.oreilly.com/oscon/oscon-or) in 2015 dropped their fifth day which was normally the community focussed day.
+Unsure as to the exact impact on the event as we don't have access to the data, anecdotal reports has the community angry with it, but the conference still runs.
+
+#### Consequences of adopting
+
+- The pereceived value of the conference for both tickets and sponsorship drops
+- Venue requirements most likely simplified
+- Costs for those two days eliminated
+- Probably extremely angry community
+
+This is both the easiest and most extreme option all at once and amounts to essentially a complete overhaul to how LCA is run.
+
+It simplifies the workload on the organisers, reduces venue and catering costs and would likely simplify hiring a venue as three days is easier than five.
+This does change the conference from five to three days and will likely also result in the ticket and sponsorship being seen as less valuable than they currently are.
+
+The repurcussions of this option are impossible to predict without attempting them.
+
+### Split off miniconfs
+
+A less extreme version of the above, essentially encourage miniconfs to run before the main conference but with zero official integration with LCA main.
+Main difference between this and the above is that miniconfs would be mentioned and encouraged by LCA but with the caveat of "we are not running them".
+This would very likely happen anyway even if the above option was taken.
+
+#### Pros
+
+- Reduced venue costs
+- Reduced catering costs
+- Reduced main organiser workload
+- Simplify LCA conference backend and website (can drop elements relevant to miniconfs)
+
+#### Drawbacks
+
+- Increased miniconf organiser workload
+- The pereceived value of the conference for both tickets and sponsorship drops
+- Miniconfs need to find venue space
+- Reduced integration between miniconf communities and main conference communities
+- Reduced "foot traffic" of potential miniconf speakers through main LCA
+
+#### Interdependencies
+
+- Conference ticket perceived value drops
+- Conference sponsorship perceived value drops
+- Venue requirements
+- LCA backend and website
+
+#### Examples
+
+[Freeplay Parallels](https://freeplay.net.au): an event that runs during [Melbourne International Games Week](http://gamesweek.melbourne) during the pause in-between when the larger main events of Games Week (GCAP and PAX) run.
+
+[Copyleft Conf](https://2019.copyleftconf.org/about/): ran after FOSDEM 2019.
+Date and location was chosen to specifically be convenient for those attending FOSDEM.
+
+[Papers We Love](https://pwlconf.org): overlaps with [Strange Loop](https://www.thestrangeloop.com)'s first day but is technically its own conference that shares space and costs and support each other.
+
+Most large conferences have a variety of unofficial events pop up around them that are supported by the main conference by listing them as unofficial events on their website or social media channels. 
+
+#### Consequences of adopting
+
+- The pereceived value of the conference for both tickets and sponsorship drops
+- Venue requirements most likely simplified
+- Costs for those two days eliminated
+
+These consequences are very similar to the above but with a likely reduced community upset.
+As with the above option the full repurcussions of this are impossible to gauge without actually doing it and seeing.
 
 ### Blergh blergh option 1 
 
@@ -164,7 +297,7 @@ prohibited from finding their own funding to assist potential speakers.
 
 #### Interdependencies of $OPTION
 
-#### Consequences of adopting $OPTION 
+#### Consequences of adopting $OPTION
 
 ## Recommendations 
 
