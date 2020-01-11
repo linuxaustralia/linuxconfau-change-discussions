@@ -289,6 +289,86 @@ Most large conferences have a variety of unofficial events pop up around them th
 These consequences are very similar to the above but with a likely reduced community upset.
 As with the above option the full repurcussions of this are impossible to gauge without actually doing it and seeing.
 
+### Miniconfs replaced by Specialist Streams
+
+Another obvious alternative to the current model of running Miniconfs
+as a "second wave" CFP, but without any budget, would be to make them
+*an official part of the conference*, effectively as "specialist streams".
+
+This model is used by, eg, PyConAU, with the first day being a
+"Specialist Stream" model.
+
+In this model:
+
+*   There would be a *very early* CFP for specialist stream topics (eg,
+    by March of the year before)
+
+*   Specialist streams would be chosen by, eg, May of the year before
+
+*   CFP for the Specialist Streams would happen *at the same time* as
+    the main conference CFP, and potential presenters could submit
+    to either (or both)
+
+*   Specialist stream talk selection would involve the proposer/group
+    of the specialist stream (eg, to judge talk merit details), but may
+    or may not be solely their choice
+
+*   Speaker benefits would be dependant on the "amount of presentation"
+    (eg, 5 minute lightning talk, sub-20 minute talk, 20-30 minute talk,
+    40 minute talk, etc)
+
+*   *All* 40 minute talks, anywhere in the week, would get the same
+    benefits; shorter talks would get either reduced benefits (eg,
+    "hobbyist ticket" instead of "professional ticket" level) or a
+    discount voucher (eg, "$400 off a ticket of your choice"); potentially
+    lightning talk speakers would get nothing (as lightning talk speakers
+    at the main conference close do not get nothing now).
+
+#### Pros of Specialist Streams
+
+*   Keeps Linux.Conf.Au as a 5 day conference, which it has effectively been
+    for the last 10+ years
+
+*   Keeps the variety of talks and talk topics
+
+*   Better integration of "specialist days" (Miniconfs) with conferece
+
+*   Access to conference budget (possibly reduced levels) for specialist
+    streams (eg, travel assistance for particular speakers); everything
+    is run through the one budget
+
+*   Rewards all speakers equally for effort put in
+
+*   Avoids the "pay to speak at a miniconf" issue, which is increasingly
+    controversal for potential speakers
+
+*   Talk selection is better integrated; avoids Miniconf speakers being
+    seen as a "second chance, weaker presentation"
+
+*   Specialist Stream coordinators could potentially be more integrated
+    into the main conference team (maybe not all meetings, but at least
+    some of them) as they're chosen early on, reducing "pass along the
+    message" communication
+
+#### Drawbacks of Specialist Streams
+
+*   Additional speakers getting discounted/funded tickets reduces the
+    overall budget
+
+*   Concern about "weaker" presenters still being funded
+
+*   Loss of "second chance" CFP round / "I just realised I can go to the
+    conference, maybe I'll submit something two weeks before"
+
+*   Financially to make this model work it might be necessary to have
+    fewer/larger Specialist Streams
+
+#### Interdependencies of Specialist Streams
+
+#### Consequences of adopting Specialist Streams
+
+
+
 ### Blergh blergh option 1 
 
 #### Pros of $OPTION
